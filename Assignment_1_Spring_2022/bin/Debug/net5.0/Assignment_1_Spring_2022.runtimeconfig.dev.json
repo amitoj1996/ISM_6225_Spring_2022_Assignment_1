@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\amito\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\amito\\.nuget\\packages"
+    ]
+  }
+}
